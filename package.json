@@ -1,0 +1,22 @@
+{
+  "name": "betelgeuse-jquery-express-list-of-geesen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeAcademy/betelgeuse-jquery-express-list-of-geesen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimeAcademy/betelgeuse-jquery-express-list-of-geesen/issues"
+  },
+  "homepage": "https://github.com/PrimeAcademy/betelgeuse-jquery-express-list-of-geesen#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
